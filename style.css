@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(https://imgs.search.brave.com/sfE17UW78rj21M7IpOm6XMKipV1hqT3lhn8uWFQd91I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA3/MTEwNDczNC9waG90/by93b21hbi1zaWxo/b3VldHRlLWF0LXN1/bnNldC1vbi1oaWxs/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz0zUHJDSGNsdFM0/VHR4VVhIeFQ5ckxY/ckcxNTRMcGY3MEJO/RFFma3lzUm5RPQ);
+    background-size: cover;
+    
+    
+}
+ h1{
+    text-align: center;
+    font-size: 35px;
+    color: aqua;
+    padding-top: 250px;
+
+}
+.landing p{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 20px;
+}
